@@ -5,4 +5,4 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=red)
 
 ##Follow me
-
+[![Vkontakte](https://img.shields.io/badge/-Vk-blue?style=for-the-badge&logo=Vk&logoColor=blue)](https://vk.com/sulf8)
