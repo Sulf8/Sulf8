@@ -1,5 +1,5 @@
 
-Hello! I'm beginner java developer.
+Hello! I'm java/kotlin developer.
 
 My Languages and Tools:
 
